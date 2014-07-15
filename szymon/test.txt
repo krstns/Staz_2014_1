@@ -4,7 +4,7 @@ scaliłeś i
 usunąłeś
 pierwsze gałęzie, spójrzmy na dodatkowe narzędzia do zarządzania gałęziami, 
 które przydadzą się,
-gdy będziesz już używać gałęzi w swojej codziennej pracy.
+ssssssgdy będziesz już używać gałęzi w swojej codziennej pracy.
 Polecenie git branch
-robi coś więcej,
- 
+
+nowaa 

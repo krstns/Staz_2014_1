@@ -4,8 +4,7 @@ trzy
 cztery
 piec
 szesc
-siedem zmiana
-
+siedem
+osiem
 dziewiec
 dziesiec
-nowaaa

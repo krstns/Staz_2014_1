@@ -2,10 +2,9 @@ jeden
 dwa
 trzy
 cztery
-piec
+piec zmiana
 szesc
 siedem zmiana
 
 dziewiec
 dziesiec
-nowaaa

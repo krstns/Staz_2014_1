@@ -1,0 +1,16 @@
+jeden
+dwa
+trzy
+cztery
+piec zmiana
+szesc
+<<<<<<< HEAD
+aaaasiedem
+osiem
+=======
+siedem zmiana
+
+dziewiec
+>>>>>>> kolejna zmiana damian
+dziesiec
+nowaaa
